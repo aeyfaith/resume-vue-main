@@ -1,0 +1,68 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica y logros."
+        },
+
+        "fr": {
+            "title": "Parcours <span class='text-primary'>Éducatif</span>",
+            "description": "Un aperçu de mon parcours académique et de mes réalisations."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>教育</span> 背景",
+            "description": "一瞥我的学术轨迹和成就。"
+        },
+        "th": {
+            "title": "ประวัติ<span class='text-primary'>การศึกษา</span> ",
+            "description": "ภาพรวมของการศึกษาและความสำเร็จต่างๆ"
+        }
+    },
+
+    "items": [
+        {
+            "id": "online_course_udacity",
+            "place": "@link{places.udacity}",
+            "period": ["2014/01", "2016/12"],
+
+            "locales": {
+                "en": {
+                    "title": "Ratwinit Bangkaeo High School",
+                    "description": "Sci - Math Graduated with GPA of 2.99"
+                },
+
+                "th": {
+                    "title": "โรงเรียนราชวินิตบางแก้ว",
+                    "description": "โปรแกรมการเรียนวิทย์-คณิต เกรดเฉลี่ย  2.99 "
+                }
+
+            }
+        },
+
+        
+
+        {
+            "id": "masters_paris",
+            "place": "@link{places.paris}",
+            "period": ["2017/04", "2021/04"],
+
+            "locales": {
+                "en": {
+                    "title": "Burapha University Faculty of Informatics",
+                    "description": "B.Sc in information technology ,Graduated with a GPA of 3.11 "
+                },
+                "th": {
+                    "title": "มหาวิทยาลัยบูรพา คณะวิทยาการสารสนเทศ",
+                    "description": "ปริญญาตรี สาขาเทคโนโลยีสารสนเทศ เกรดเฉลี่ย 3.11"
+                }
+                
+            }
+        }
+    ]
+}

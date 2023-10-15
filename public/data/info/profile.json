@@ -1,0 +1,82 @@
+{
+    "name": "Sameanmart Aooppathum",
+    "profilePictureUrl": "images/pictures/profile01.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "UX Designer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Designer de UX"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Designer UX"
+        },
+
+        "zh": {
+            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "用户体验设计师"
+        },
+        "th": {
+            "credits": "ออกแบบโดย <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "UX Designer"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "8/317 Bang Kaeo, Bang Phli, Samut Prakan 10540",
+            "valueShort": "Bang Phli, Samut Prakan 10540",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "sameanmart@gmail.com",
+            "valueShort": "sameanmart@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:sameanmart@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Aey Faithh",
+            "valueShort": "Aey Faithh",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/Aeiy.faith"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@aeyfaith",
+            "valueShort": "@aeyfaith",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/aeyfaith"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@aey_faithh",
+            "valueShort": "@aey_faithh",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://www.instagram.com/aey_faithh/"
+        },
+
+       
+
+        "phone": {
+            "id": "phone",
+            "value": "087 494 1741 ",
+            "valueShort": "087 494 1741",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:0874941741"
+        }
+    }
+}

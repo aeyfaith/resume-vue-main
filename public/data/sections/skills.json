@@ -1,0 +1,421 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "fr": {
+            "title": "Ensemble de <span class='text-primary'>Compétences</span>",
+            "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>技能</span> 集",
+            "description": "探索我所掌握和发展的多样技能:"
+        },
+        "th": {
+            "title": "<span class='text-primary'>ทักษะ</span> ",
+            "description": "ทักษะหลากหลายที่ได้รับและพัฒนามาอย่างต่อเนื่อง:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "es": {"title": "Programación"},
+                "fr": {"title": "Programmation"},
+                "zh": {"title": "编程"}
+            }
+        },
+
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "es": {"title": "Habilidades Adicionales"},
+                "fr": {"title": "Plus Habiletés"},
+                "zh": {"title": "附加技能"},
+                "th": {"title": "ความสามารถพิเศษ"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-paint-roller",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Design Principles",
+                        "description": "Highly skilled at crafting visually appealing designs using fundamental principles of color theory, typography, layout composition, and balance to captivate viewers and convey messages effectively."
+                    },
+                    "es": {
+                        "title": "Principios de Diseño",
+                        "description": "Destacada habilidad en crear diseños atractivos usando principios fundamentales de teoría del color, tipografía, composición de layout y equilibrio para cautivar a los espectadores y transmitir mensajes con eficacia."
+                    },
+                    "fr": {
+                        "title": "Principes de Conception",
+                        "description": "Compétent pour créer des designs séduisants en utilisant des principes fondamentaux de théorie des couleurs, typographie, composition de la mise en page et équilibre pour captiver les spectateurs et transmettre efficacement les messages."
+                    },
+                    "zh": {
+                        "title": "设计原则",
+                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
+                    },
+                    "th": {
+                        "title": "หลักการออกแบบ",
+                        "description": "มีทักษะในการออกแบบโดยใช้หลักการพื้นฐานของทฤษฎีสี การพิมพ์ การจัดวางองค์ประกอบ และความสมดุลเพื่อดึงดูดผู้ใช้งานและถ่ายทอดข้อความได้อย่างมีประสิทธิภาพ"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-mobile-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Responsive Layouts",
+                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience by seamlessly adjusting design elements and content to different screen sizes."
+                    },
+                    "es": {
+                        "title": "Diseños Responsivos",
+                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima mediante el ajuste fluido de elementos y contenido a diferentes tamaños de pantalla."
+                    },
+                    "fr": {
+                        "title": "Mises en Page Réactives",
+                        "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale en ajustant harmonieusement les éléments de conception et le contenu à différentes tailles d'écran."
+                    },
+                    "zh": {
+                        "title": "响应式布局",
+                        "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。"
+                    },
+                    "th": {
+                       
+                        "description": "มีความเชี่ยวชาญในการสร้างเลย์เอาต์ที่ปรับเปลี่ยนได้สำหรับอุปกรณ์ที่หลากหลาย โดยการปรับองค์ประกอบการออกแบบและเนื้อหาให้เข้ากับขนาดหน้าจอที่แตกต่างกันได้อย่างราบรื่น"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-check-double",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Usability Testing",
+                        "description": "Enhancing user experiences through comprehensive usability testing, ensuring optimal functionality and user satisfaction."
+                    },
+                    "es": {
+                        "title": "Pruebas de Usabilidad",
+                        "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad."
+                    },
+                    "fr": {
+                        "title": "Tests d'Utilisabilité",
+                        "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité approfondis."
+                    },
+                    "zh": {
+                        "title": "可用性测试",
+                        "description": "通过全面的可用性测试提升用户体验。"
+                    },"th": {
+                        "title": "การทดสอบการใช้งาน",
+                        "description": "ปรับปรุงการทำงานผู้ใช้ผ่านการทดสอบการใช้งานที่ครอบคลุม เพื่อให้มั่นใจถึงฟังก์ชันการทำงานที่เหมาะสมที่สุดและความพึงพอใจของผู้ใช้"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-vector-square",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Wireframing",
+                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                    },
+                    "es": {
+                        "title": "Creación de Wireframes",
+                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+                    },
+                    "fr": {
+                        "title": "Création de Wireframes",
+                        "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur."
+                    },
+                    "zh": {
+                        "title": "线框图设计",
+                        "description": "熟练制作详细的线框图，以便可视化和规划用户界面。"
+                    },
+                    "th": {
+                       
+                        "description": "มีทักษะในการสร้าง wireframes ที่มีรายละเอียดเพื่อแสดงภาพและวางแผนอินเทอร์เฟซผู้ใช้ วางรากฐานสำหรับการออกแบบที่ใช้งานง่ายได้อย่างมีประสิทธิภาพ"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-expand-arrows-alt",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Interaction Design",
+                        "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability."
+                    },
+                    "es": {
+                        "title": "Diseño de Interacción",
+                        "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario."
+                    },
+                    "fr": {
+                        "title": "Design d'Interaction",
+                        "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales."
+                    },
+                    "zh": {
+                        "title": "交互设计",
+                        "description": "熟练创建直观流畅的交互，以实现用户友好的体验。"
+                    },
+                    "th": {
+                        "title": "การออกแบบปฏิสัมพันธ์",
+                        "description": "มีความเชี่ยวชาญในการสร้างปฏิสัมพันธ์ที่ใช้งานได้ง่ายและราบรื่นเพื่อประสบการณ์ที่เป็นดีต่อผู้ใช้ ผสมผสานสุนทรียศาสตร์และการใช้งานเข้าด้วยกัน"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-laptop-code",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Prototyping",
+                        "description": "Skilled in translating concepts into interactive prototypes for testing and refinement, ensuring functional and engaging end products."
+                    },
+                    "es": {
+                        "title": "Prototipado",
+                        "description": "Habilidad para traducir conceptos en prototipos interactivos para pruebas y perfeccionamiento."
+                    },
+                    "fr": {
+                        "title": "Prototypage",
+                        "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages."
+                    },
+                    "zh": {
+                        "title": "原型设计",
+                        "description": "熟练将概念转化为交互式原型，以进行测试和完善。"
+                    },"th": {
+                        "title": "การสร้างต้นแบบทดลองในการใช้งาน",
+                        "description": "มีทักษะในการแปลแนวคิดให้เป็นต้นแบบเชิงโต้ตอบสำหรับการทดสอบและการปรับแต่ง เพื่อให้มั่นใจว่าผลิตภัณฑ์ขั้นสุดท้ายใช้งานได้จริงและน่าดึงดูด"}
+            
+                    }
+                }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 80,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 4 years"},
+                    "es": {"title": "HTML 5", "description": "Experiencia: 4 años"},
+                    "fr": {"title": "HTML 5", "description": "Expérience : 4 ans"},
+                    "zh": {"title": "HTML 5", "description": "经验时长：4年"},
+                    "th": {"title": "HTML 5", "description": "ประสบการณ์: 4 ปี"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "CSS ", "description": "Experience Time: 4 years"},
+                    "es": {"title": "CSS ", "description": "Experiencia: 4años"},
+                    "fr": {"title": "CSS ", "description": "Expérience : 4 ans"},
+                    "zh": {"title": "CSS ", "description": "经验时长：4年"},
+                    "th": {"title": "CSS ", "description": "ประสบการณ์: 4 ปี"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-ruler",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "Adobe XD", "description": "Experience Time: 3 years"},
+                    "es": {"title": "Adobe XD", "description": "Experiencia: 3 años"},
+                    "fr": {"title": "Adobe XD", "description": "Expérience : 3 ans"},
+                    "zh": {"title": "Adobe XD", "description": "经验时长：3年"},
+                    "th": {"title": "Adobe XD", "description": "ประสบการณ์: 3 ปี"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 40,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: 2 years"},
+                    "es": {"title": "JavaScript", "description": "Experiencia: 2 años"},
+                    "fr": {"title": "JavaScript", "description": "Expérience : 2 ans"},
+                    "zh": {"title": "JavaScript", "description": "经验时长：2年"},
+                    "th": {"title": "JavaScript", "description": "ประสบการณ์: 2 ปี"}
+                }
+            },
+
+            {
+                
+            "imageIconUrl": null,
+            "faIcon": "fab fa-figma",
+            "value": 70,
+            "locales": {
+                "en": {"title": "Figma", "description": "Experience Time: 8 months"},
+                "es": {"title": "Figma", "description": "Experiencia: 8 months"},
+                "fr": {"title": "Figma", "description": "Expérience : 8 months"},
+                "zh": {"title": "Figma", "description": "经验时长：8月"},
+                "th": {"title": "Figma", "description": "ประสบการณ์: 8 เดือน"}
+            }
+                
+            },
+
+            {
+                "imageIconUrl": null,
+            "faIcon": "fab fa-vuejs",
+            "value": 20,
+            "locales": {
+                "en": {"title": "Vue 3", "description": "Experience Time: 4 months"},
+                "es": {"title": "Vue 3", "description": "Experiencia: 4 months"},
+                "fr": {"title": "Vue 3", "description": "Expérience : 4 months"},
+                "zh": {"title": "Vue 3", "description": "经验时长：4月"},
+                "th": {"title": "Vue 3", "description": "ประสบการณ์: 4 เดือน"}
+            }
+                
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "English", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Inglés", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
+                    "fr": {"title": "Anglais", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."},
+                    "zh": {"title": "英语", "description": "母语人士，具有出色的沟通和写作能力。"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
+                    "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
+                    "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
+                    "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/vn.png",
+                "faIcon": null,
+                "value": 40,
+                "locales": {
+                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
+                    "es": {"title": "Vietnamita", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
+                    "fr": {"title": "Vietnamien", "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."},
+                    "zh": {"title": "越南语", "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/pt.png",
+                "faIcon": null,
+                "value": 10,
+                "locales": {
+                    "en": {"title": "Brazilian Portuguese", "description": "Basic understanding of Brazilian Portuguese; learning and improving."},
+                    "es": {"title": "Portugués Brasileño", "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando."},
+                    "fr": {"title": "Portugais Brésilien", "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration."},
+                    "zh": {"title": "巴西葡萄牙语", "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。"}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "User Interface (UI) Design", "description": "Able to design intuitive and visually appealing user interfaces for seamless user interactions."},
+                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."},
+                    "fr": {"title": "Design d'Interface Utilisateur (UI)", "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."},
+                    "zh": {"title": "用户界面（UI）设计", "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"},
+                    "th": {"title": "User Interface (UI) Design", "description": "สามารถออกแบบอินเทอร์เฟซผู้ใช้ที่ใช้งานง่ายและน่าดึงดูด เพื่อการโต้ตอบกับผู้ใช้ที่ราบรื่น"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Front-End Development", "description": "Able to code HTML , CSS , JavaScript and VueJS"},
+                    "th": {"title": "Front-End Development", "description": "สามารถเขียนโค้ดใน HTML , CSS , JavaScript และ VueJS"}
+                }
+            }
+            ,
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Multimedia design", "description": "Able to design many types of multimedia such as posters, covers, characters, and other designs. Able to use Procreate program well."},
+                    "th": {"title": "Multimedia design", "description": "สามารถออกแบบมัลติมีเดียได้หลายประเภท เช่น โปสเตอร์ ปก ตัวละคร และการออกแบบอื่นๆ สามารถใช้โปรแกรม Procreate ได้เป็นอย่างดี"}
+                }
+            }
+            ,
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Sketch design", "description": "Able to draft and design things other than programs in the software. Can also draw sketches quickly Excellent drawing skills"},
+                    "th": {"title": "Sketch design", "description": "สามารถร่างภาพสเก็ตและออกแบบสิ่งต่าง ๆ นอกเหนือจากโปรแกรมในซอฟต์แวร์ได้ ยังสามารถวาดภาพสเก็ตได้อย่างรวดเร็ว มีทักษะการวาดภาพที่ยอดเยี่ยม"}
+                }
+            }
+            ,
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "3D design", "description": "Have basic 3D design skills and basic game design skills."},
+                    "th": {"title": "3D design", "description": "มีทักษะการออกแบบ 3D ขั้นพื้นฐานและทักษะการออกแบบเกมขั้นพื้นฐาน"}
+                }
+            }
+        ]
+
+    }
+}

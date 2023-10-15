@@ -1,0 +1,79 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Avalant Co., Ltd"}
+        }
+    },
+
+    "apple": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {"name": "Inter Creative Co., Ltd"}
+        }
+    },
+
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Work from home"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "harvard": {
+        "logoUrl": "images/places/logo-harvard.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Harvard University"},
+            "es": {"name": "Universidad de Harvard"},
+            "fr": {"name": "Université Harvard"},
+            "zh": {"name": "哈佛大学"}
+        }
+    },
+
+    "paris": {
+        "logoUrl": "images/places/logo-paris-university.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Chonburi"},
+            "th": {"name": "ชลบุรี"}
+        }
+    },
+
+    "udacity": {
+        "logoUrl": "images/places/logo-udacity.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Samutprakarn"},
+            "th": {"name": "สมุทรปราการ"}
+        }
+    },
+
+    "uxStudio": {
+        "logoUrl": "images/places/logo-ux-studio.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "Burapha University"},
+            "th":{"name": "มหาวิทยาลัยบูรพา"}
+        }
+    }
+}

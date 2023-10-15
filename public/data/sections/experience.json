@@ -1,0 +1,90 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Professional</span> Experience",
+            "description": "A look into my work experience and career journey."
+        },
+
+        "es": {
+            "title": "<span class='text-primary'>Experiencia</span> Profesional",
+            "description": "Un vistazo a mi experiencia laboral y trayectoria profesional."
+        },
+
+        "fr": {
+            "title": "Expérience <span class='text-primary'>Professionnelle</span>",
+            "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>专业</span> 经验",
+            "description": "了解我的工作经验和职业之旅。"
+        }, "th": {
+            "title": "ประสบการณ์<span class='text-primary'>การทำงาน</span> ",
+            "description": "ประสบการณ์การทำงานและเส้นทางอาชีพ"
+        }
+    },
+
+    "items": [
+        {
+            "id": "experience_item_1",
+            "place": "@link{places.uxStudio}",
+            "period": ["2018/03", "2020/10"],
+            "locales": {
+                "en": {
+                    "title": "Teacher assistant in the course of study",
+                    "description": "Logical Thinking and Problem Solving for Innovation <br>    Database System I   <br>   Human and Computer Interaction <br>    Moving Forward in a Digital Society   with ICT"
+                }, "th": {
+                    "title": "ผู้ช่วยอาจารย์ในรายวิชาเรียน",
+                    "description": "Logical Thinking and Problem Solving for Innovation <br>    Database System I   <br>   Human and Computer Interaction <br>    Moving Forward in a Digital Society   with ICT"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_2",
+            "place": "@link{places.adobe}",
+            "period": ["2020/11", "2021/03"],
+            "locales": {
+                "en": {
+                    "title": "Front-end & UXUI",
+                    "description": "Intern in the position of UXUI Designer 4 months. <br> Work on the part of UXUI 2 month <br>    Work on the part of Front-end 2 month "
+                },"th": {
+                    "title": "Front-end & UXUI",
+                    "description": "ฝึกงานในตำแหน่ง UXUI Designer     4 เดือน  <br>   ทำงานในส่วนของ UXUI เป็นเวลา 2 เดือน  <br>     ทำงานในส่วนของ Front-end เป็นเวลา 2 เดือน"
+                }
+
+            }
+        },
+
+        {
+            "id": "experience_item_3",
+            "place": "@link{places.apple}",
+            "period": ["2021/04", "2023/02"],
+            "locales": {
+                "en": {
+                    "title": "Front-end & UXUI",
+                    "description": "Generated interactive prototypes to demonstrate user flows and complex functionality. <br> Developed and maintained front end codebase for web applications using HTML, CSS, JavaScript and Wordpress <br> There is graphic design in various projects received."
+                },"th": {
+                    "title": "Front-end & UXUI",
+                    "description": "ออกแบบหน้าเว็บไซต์เชิงโต้ตอบเพื่อสาธิตการใช้งานและการทำงานที่ซับซ้อน <br>  พัฒนาและดูแลวางโครงสร้างโค้ดเบสส่วนหน้าสำหรับเว็บแอปพลิเคชันโดยใช้ HTML, CSS และ JavaScript และมีการใช้ Wordpress รวมด้วย <br> มีการออกแบบกราฟิคในโปรเจ็คงานต่างๆ ที่ได้รับ"
+                }
+            }
+        },
+
+        {
+            "id": "experience_item_4",
+            "place": "@link{places.coursera}",
+            "period": ["2023/03", "now"],
+            "locales": {
+                "en": {
+                    "title": "Freelance & Graphic Designer",
+                    "description": "Collaborated with clients to develop brand identities and visual guidelines and study additional knowledge."
+                },
+                "th": {
+                    
+                    "description": "ร่วมมือกับลูกค้าในการพัฒนารูปลักษณ์ของแบรนด์และแนวทางด้านภาพ และศึกษาความรู้เพิ่มเติม"
+                }
+            }
+        }
+    ]
+}
